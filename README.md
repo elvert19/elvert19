@@ -1,3 +1,4 @@
+Hey there it is Elvis the ml/embedded systems engineer and i like to nerd about code and physics
 <h3 align="left">Technologies & Tools:</h3>
 
 #### 🧠 Machine Learning & Data Science (Python)
