@@ -1,4 +1,3 @@
-Hey there it is Elvis the ml/embedded systems engineer and i like to nerd about code and physics
 <h3 align="left">Technologies & Tools:</h3>
 
 #### 🧠 Machine Learning & Data Science (Python)
@@ -7,6 +6,7 @@ Hey there it is Elvis the ml/embedded systems engineer and i like to nerd about 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### 🔌 Embedded Systems & Systems Programming
@@ -20,8 +20,6 @@ Hey there it is Elvis the ml/embedded systems engineer and i like to nerd about 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
 
 <h3 align="left">Connect with me:</h3>
 
